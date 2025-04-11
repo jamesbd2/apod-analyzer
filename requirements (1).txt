@@ -1,8 +1,0 @@
-streamlit
-pandas
-numpy
-jinja2
-xhtml2pdf
-folium
-geopy
-streamlit-folium
